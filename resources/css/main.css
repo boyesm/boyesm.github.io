@@ -32,10 +32,24 @@ a:link, a:visited, a:hover, a:active{
     margin-bottom: 20px;
 }
 
+
 #content ul{
     margin-bottom: 30px;
 }
 
 #content li{
     margin-bottom: 1em;
+}
+
+#content .post h1{
+    margin-bottom: 0px;
+}
+
+#content .post h3{
+ color: grey;
+}
+
+#content .post p{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
